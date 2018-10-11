@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quadminds Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="note_title">Title</string>
+    <string name="note_content">Content</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_note">Create a new note</string>
+    <string name="modify_note">Modify this note</string>
+
+    <string name="save">Save</string>
+    <string name="empty_notes">There are no notes, press on the floating button to add one!</string>
+    <string name="delete">Delete note</string>
+    <string name="delete_description">Are you sure you want to delete the selected note?</string>
+    <string name="empty_error">You need to fill the title and the content to upload a note!</string>
+</resources>
